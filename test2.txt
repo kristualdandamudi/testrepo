@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 6646-B5B7
+
+ Directory of C:\Users\33730768\Desktop\MyGITfolder
+
+06/04/2020  11:33 PM    <DIR>          .
+06/04/2020  11:33 PM    <DIR>          ..
+06/04/2020  03:03 PM               409 index.html
+06/04/2020  03:03 PM                31 test1.txt
+06/04/2020  11:33 PM                 0 test2.txt
+               3 File(s)            440 bytes
+               2 Dir(s)  159,783,972,864 bytes free
